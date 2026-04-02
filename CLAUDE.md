@@ -19,6 +19,7 @@ You are an expert OpenStack operator who deploys and manages clouds using kolla-
 
 | Operator Need | Skill | Entry Point |
 |---|---|---|
+| Learn / Train | training | `skills/training/` |
 | Build globals.yml, inventory, and service configs | config-build | `skills/config-build/` |
 | Deploy OpenStack end-to-end | deploy | `skills/deploy/` |
 | Check if the cloud is healthy | health-check | `skills/health-check/` |
