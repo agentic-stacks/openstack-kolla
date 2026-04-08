@@ -1,6 +1,5 @@
 name: openstack-kolla
 namespace: agentic-stacks
-version: "0.1.0"
 description: >
   Agent-driven OpenStack cloud deployment and operations using kolla-ansible.
   Covers the full lifecycle: configuration, deployment, health checking,
